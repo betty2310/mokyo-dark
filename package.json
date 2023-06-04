@@ -1,0 +1,21 @@
+{
+  "name": "mokyodark",
+  "displayName": "Modern tokyo dark",
+  "description": "Modern tokyo dark theme. Combine default modern dark and tokyo night",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "modern-tokyo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/modern-tokyo-color-theme.json"
+      }
+    ]
+  }
+}

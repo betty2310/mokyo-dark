@@ -3,6 +3,17 @@
   "displayName": "Modern tokyo dark",
   "description": "Modern tokyo dark theme. Combine default modern dark and tokyo night",
   "version": "0.0.1",
+  "publisher": "betty2310",
+  "author": {
+    "name": "Huynh Duong",
+    "email": "betty2310@duck.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/betty2310/mokyo-dark"
+  },
+  "homepage": "https://github.com/betty2310/mokyo-dark/blob/main/README.md",
   "engines": {
     "vscode": "^1.78.0"
   },
